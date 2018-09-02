@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_onActivityForResult</string>
+    <string name="second_activity_BTN__text">Second Activity</string>
+    <string name="first_activity_text">This is First Activity</string>
+
+    <string name="first_activity_BTN__text">First Activity</string>
+    <string name="Second_activity_text">This is Second Activity</string>
+</resources>
